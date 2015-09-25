@@ -3,7 +3,9 @@
 Once a repo has been made it's time to start working on it! 
 
 ## GitHub Desktop 
-If you are using Github Desktop, read about [cloning a repo](https://help.github.com/desktop/guides/contributing/) from their documentation. You can also click on the ![clone in desktop](images/clone_in_desktop.jpg) button in GitHub.
+If you are using Github Desktop, read about [cloning a repo](https://help.github.com/desktop/guides/contributing/) from their documentation. You can also click on the *Clone in Desktop* button in GitHub.
+
+![](images/clone_in_desktop.jpg)
 
 ## TortoiseGit - *Git Clone*
 If you are using TortoiseGit, you can clone a GitHub repo like this:
