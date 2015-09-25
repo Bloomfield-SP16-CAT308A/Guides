@@ -50,6 +50,8 @@ To use TortoiseGIT and get the easy to use context menus, there are a few step y
 
     ![](images/git_for_windows_install11.jpg)
 
+* You are done!
+
 ## Install [TortoiseGIT](https://tortoisegit.org/)
 
 * Visit <https://tortoisegit.org/download/> and select the appropriate version for your computers (either 32-bit or 64-bit)
