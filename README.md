@@ -17,7 +17,7 @@ Once you have something installed, then you can read:
 
 After you have that inital connection to the GitHub repository then you can read:
 * [How to get updates from a GitHub repo](Updating-From-GitHub/README.md)
-* [How to submit your changes to a GitHub repo](Submitting-Stuff/README.md)
+* [How to submit your changes to a GitHub repo](Sending-Stuff/README.md)
 
 ### Client documentation
 
