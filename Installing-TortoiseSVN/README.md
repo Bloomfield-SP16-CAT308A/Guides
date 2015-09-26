@@ -16,14 +16,14 @@ To use TortoiseSVN and get the easy-to-use context menus, you just have to follo
 
 * You can leave the defaults installs, maybe to save a meg of hard drive space you might want to not install the *English (GB) dictionary*, or you might want to install the *command line client tools* if you like using the Command Prompt. 
 
-  ![](image/tortoisesvn_install04.jpg)
+  ![](images/tortoisesvn_install04.jpg)
 
 * Click *Install* and if you are not an administrator, you are going to need one to enter their password!
 
-  ![](image/tortoisesvn_install05.jpg)
+  ![](images/tortoisesvn_install05.jpg)
 
 * Wait for it to install. At first, it may seem like nothing is happening, but eventually it will start chugging away
 
-  ![](image/tortoisesvn_install06.jpg)
+  ![](images/tortoisesvn_install06.jpg)
 
 * Sit back and start using version control!
