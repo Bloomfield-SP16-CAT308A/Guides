@@ -8,7 +8,15 @@ For this class, all assignments are being submitted via GitHub, so you will need
 
 ### Install a client
 
-One of the easiest solutions is to install [GitHub Desktop](https://desktop.github.com/) or [install TortoiseGit](Installing-TortoiseGIT/README.md) which is more like working in Windows Explorer.
+One of the easiest solutions is to install 
+* [GitHub Desktop](https://desktop.github.com/)
+
+or if you like working in right in Windows Explorer, use one of these:
+
+* [TortoiseGit](Installing-TortoiseGIT/README.md)
+* [TortoiseSVN](Installing-TortoiseSVN/README.md)
+
+
 
 ### Using a client 
 
