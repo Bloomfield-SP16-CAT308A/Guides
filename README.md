@@ -17,11 +17,13 @@ or if you like working in right in Windows Explorer, use one of these:
 * [TortoiseSVN](Installing-TortoiseSVN/README.md)
 
 
-
 ### Using a client 
 
 Once you have something installed, then you can read:
 * [How to get a repo from GitHub](Getting-Stuff/README.md) 
+
+If you decide to go with a Tortoise product, then you may want to read:
+* [Working with Tortoise](Working-With-Tortoise/README.md)
 
 After you have that inital connection to the GitHub repository then you can read:
 * [How to get updates from a GitHub repo](Updating-From-GitHub/README.md)
