@@ -13,7 +13,7 @@ Sometimes, it may happen that more than one person is working on the same file. 
 ## TortoiseGit
 For TortoiseGit, there are two ways to get the latest from the repo.
 
-* **Pull** -  This gets all the latest files and merges them with your files. Select *TortoiseGit -> Pull...**
+* **Pull** -  This gets all the latest files and merges them with your files. Select **TortoiseGit -> Pull...**
 
   ![](images/tortoisegit_menu_pull.jpg)
   
@@ -21,7 +21,7 @@ For TortoiseGit, there are two ways to get the latest from the repo.
   
   ![TortoiseGit - Pull](https://tortoisegit.org/docs/tortoisegit/images/GitPull.png)
 
-* **Fetch** - This downloads the latest files, but does not override any files you have modified. Select *TortoiseGit -> Fetch...**
+* **Fetch** - This downloads the latest files, but does not override any files you have modified. Select **TortoiseGit -> Fetch...**
 
   ![](images/tortoisegit_menu_fetch.jpg)
 
