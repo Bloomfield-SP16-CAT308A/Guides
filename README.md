@@ -1,6 +1,6 @@
 # Guides
 
-Here are some useful tips for this class. 
+Here are some useful tips for this class.
 
 ## Version Control
 
@@ -35,3 +35,7 @@ Here are some links to the clients that we will support:
 * [GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 * [TortoiseGit](https://tortoisegit.org/docs/tortoisegit/)
 * [TortoiseSVN](http://tortoisesvn.net/docs/release/TortoiseSVN_en/index.html)
+
+### Other helpful links
+* [GitHub Glossary](https://help.github.com/articles/github-glossary/)
+* [Git Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/) - Nice little guide for using Git via command line.
