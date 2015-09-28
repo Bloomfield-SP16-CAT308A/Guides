@@ -34,22 +34,26 @@ For more details, read:
 ### Copy and Move Files
 The easiest way to copy or move files is to **right drag** a file or folder to it's destination. When you let go, depending which Tortoise you are using will give you different options:
 
+  * With TortoiseGit, if you can move items with a right drag.
+  
+  ![](images/tortoisegit_move_menu.jpg)
+  
+  If you want to copy files with their history, you will need to do a *Branch*. However, if you do not need to keep their history, you can just do a plain **Copy here** and then add them using **TortoiseGit -> Add...**
+
   * With TortoiseSVN, right drag will allow you to SVN Move and SVN Copy items. This will allow you to keep versioning history.
 
   ![](http://tortoisesvn.net/docs/release/TortoiseSVN_en/images/RightDragMenu.png)
 
-  * With TortoiseGit, if you can move items with a right drag.
-  
-  ![](images/tortoise_move_menu.jpg)
-  
-  If you want to copy files with their history, you will need to do a *Branch*. However, if you do not need to keep their history, you can just do a plain **Copy here** and then add them using **TortoiseGit -> Add...**
-
 ### Delete/Rename Files
 If the file is added to the repo, you need to remember to use the Tortoise commands to ensure that these changes will be made in the repo!
 
+![](images/tortoise_menu_rename.jpg)
+
 ![](images/tortoise_menu_delete.jpg)
 
-![](images/tortoise_menu_rename.jpg)
+Note: TortoiseGit also includes an option to delete the file from the repo, but keep it on your computer.
+
+![](images/tortoisegit_menu_delete.jpg)
 
 More info:
 
