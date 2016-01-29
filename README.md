@@ -1,6 +1,6 @@
 # Guides
 
-Here are some useful tips for this class.
+Here are some useful tips for this class and other classes as well.
 
 ## Version Control
 
